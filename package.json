@@ -1,0 +1,36 @@
+{
+  "name": "rty-pages",
+  "version": "0.1.0",
+  "description": "Awesome node module",
+  "keywords": [
+    "rty-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/rtyhn/rty-pages#readme",
+  "bugs": {
+    "url": "https://github.com/rtyhn/rty-pages/issues"
+  },
+  "license": "MIT",
+  "author": "yijoa <847332395@qq.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtyhn/rty-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^14.3.4"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
